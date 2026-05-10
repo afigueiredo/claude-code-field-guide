@@ -2,7 +2,7 @@
 
 A layered Claude Code configuration system for Salesforce and Agentforce developers. Extracted from production FDE workflows.
 
-Companion to the article: [Claude Code Doesn't Forget](https://medium.com/@afigueiredo)
+Companion to the article: [Claude Code Doesn't Forget](https://medium.com/@afigueiredo/claude-code-doesnt-forget-a-layered-configuration-system-for-serious-projects-a8eac8047526)
 
 ---
 
@@ -71,7 +71,7 @@ It reads session transcripts, eval reasoning, and live configuration to diagnose
 
 ## More
 
-- Article: [Claude Code Doesn't Forget]([https://afigueiredo.medium.com/claude-code-doesnt-forget-a-layered-configuration-system-for-serious-projects-a8eac8047526?postPublishedType=repub])
+- Article: [Claude Code Doesn't Forget](https://medium.com/@afigueiredo/claude-code-doesnt-forget-a-layered-configuration-system-for-serious-projects-a8eac8047526)
 - Profile: [@afigueiredo](https://medium.com/@afigueiredo)
 - More skills and tools: coming soon
 
