@@ -71,7 +71,7 @@ It reads session transcripts, eval reasoning, and live configuration to diagnose
 
 ## More
 
-- Article: [Claude Code Doesn't Forget](https://medium.com/@afigueiredo)
+- Article: [Claude Code Doesn't Forget]([https://medium.com/@afigueiredo](https://afigueiredo.medium.com/claude-code-doesnt-forget-a-layered-configuration-system-for-serious-projects-a8eac8047526?postPublishedType=repub))
 - Profile: [@afigueiredo](https://medium.com/@afigueiredo)
 - More skills and tools: coming soon
 
