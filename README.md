@@ -1,6 +1,6 @@
 # Claude Code Field Guide
 
-A practical, layered configuration system for making Claude Code consistent across projects, domains, and teams. Includes Salesforce and Agentforce examples extracted from production FDE workflows.
+A practical, layered configuration system for making Claude Code consistent across projects, domains, and teams. Includes Salesforce and Agentforce examples adapted from real project workflows.
 
 Companion to the article: [Claude Code Doesn't Forget](https://medium.com/@afigueiredo/claude-code-doesnt-forget-a-layered-configuration-system-for-serious-projects-a8eac8047526)
 

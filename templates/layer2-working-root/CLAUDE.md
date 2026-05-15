@@ -7,7 +7,7 @@ This is the working root for all development. Global identity and cross-project 
 ```
 /Users/[yourname]/code/
 ├── customers/          ← Customer projects (one folder per customer)
-├── agentforce/         ← Internal work: templates, POCs, reusable components
+├── shared/             ← Shared work: templates, POCs, reusable components
 ├── reference/          ← Living reference guides and articles
 ├── scratch/            ← Throwaway experiments and POCs
 └── tasks/

@@ -6,27 +6,27 @@ alwaysApply: true
 
 ## Git Accounts
 
-Three separate identities — always confirm the correct one before pushing or creating PRs.
+Separate identities — always confirm the correct one before pushing or creating PRs.
 
 | Account | Server | Use for |
 |---|---|---|
-| `[yourname]` | `git.soma.salesforce.com` | Internal Salesforce repos, customer work on Salesforce infrastructure |
-| `[yourname_sfemu]` | `github.com` (EMU) | Customer work hosted on GitHub, FDE team repos |
-| `[yourname]` | `github.com` (personal) | Open-source, public profile, personal projects |
+| `[personal-user]` | `github.com` | Open-source, public profile, personal projects |
+| `[work-user]` | `github.com` | Company or customer work hosted on GitHub |
+| `[internal-user]` | `[internal-git-host]` | Private repositories on an internal git host |
 
 **How to check:** Run `/git-repos` to see live remotes and current branches for all repos.
 
 **Quick switch:**
 ```bash
-gh auth switch --user [yourname]        # personal
-gh auth switch --user [yourname_sfemu]  # Salesforce EMU
-# git.soma uses Salesforce SSO — no manual switch needed
+gh auth switch --user [personal-user]  # personal
+gh auth switch --user [work-user]      # work
+# Internal git hosts may use SSO or a separate credential helper.
 ```
 
 **Account by directory:**
-- `customers/[project]/` → `git.soma.salesforce.com`
-- `agentforce/voice/`    → `github.com` EMU
-- `[yourname]-profile/`  → `github.com` personal
+- `customers/[project]/` → `[internal-git-host]` or work GitHub
+- `shared/[project]/`    → work GitHub
+- `[yourname]-profile/`  → personal GitHub
 
 ---
 

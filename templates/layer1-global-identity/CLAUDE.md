@@ -27,7 +27,7 @@ Background: [X]+ years in [ecosystem]. Focus: [current focus areas].
 - **Salesforce CLI**: `sf` for all deployments and org operations
 - **Python 3**: standard library preferred
 - **Claude Code**: primary development environment
-- **GitHub**: [your account structure — personal, EMU, internal]
+- **GitHub**: [your account structure — personal, work, internal]
 
 ## Writing Style (for content tasks)
 
