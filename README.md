@@ -1,6 +1,6 @@
-# salesforce-claude-skills
+# Claude Code Field Guide
 
-A layered Claude Code configuration system for Salesforce and Agentforce developers. Extracted from production FDE workflows.
+A practical, layered configuration system for making Claude Code consistent across projects, domains, and teams. Includes Salesforce and Agentforce examples extracted from production FDE workflows.
 
 Companion to the article: [Claude Code Doesn't Forget](https://medium.com/@afigueiredo/claude-code-doesnt-forget-a-layered-configuration-system-for-serious-projects-a8eac8047526)
 
@@ -73,8 +73,8 @@ It reads session transcripts, eval reasoning, and live configuration to diagnose
 
 - Article: [Claude Code Doesn't Forget](https://medium.com/@afigueiredo/claude-code-doesnt-forget-a-layered-configuration-system-for-serious-projects-a8eac8047526)
 - Profile: [@afigueiredo](https://medium.com/@afigueiredo)
-- More skills and tools: coming soon
+- More Claude Code patterns and tools: coming soon
 
 ---
 
-`Claude Code` `Salesforce` `Agentforce` `Developer Tools` `LLM` `AI Agents`
+`Claude Code` `Configuration` `Salesforce` `Agentforce` `Developer Tools` `LLM` `AI Agents`
